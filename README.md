@@ -19,7 +19,7 @@ pip install packaging ninja
 pip install "flash-attn==2.5.5" --no-build-isolation
 ```
 
-## 2. 모델 추출
+## 2. 모델 추출 (ECoT = OpenVLA + CoT Fine-tuning)
 ```bash
 # path_to_hf = "Embodied-CoT/ecot-openvla-7b-bridge" 
 python extract_model.py
