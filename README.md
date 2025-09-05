@@ -27,5 +27,5 @@ python extract_model.py
 
 ## 3. Evaluation (ROS2-based)
 ```bash
-python eval_ros.cot.py 
+python eval_ros_cot.py 
 ```
