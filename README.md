@@ -17,3 +17,6 @@ pip install -e .
 # FlashAttention 2 설치 (선택)
 pip install packaging ninja
 pip install "flash-attn==2.5.5" --no-build-isolation
+```
+
+## 2. 모델 추출
