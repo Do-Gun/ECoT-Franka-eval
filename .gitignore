@@ -1,0 +1,18 @@
+ckpt/
+embodied-CoT/
+home/
+# large artifacts / checkpoints / data / builds
+ckpt/
+home/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.tar
+*.zip
+*.deb
+data/
+datasets/
+outputs/
+wandb/
+dist/
