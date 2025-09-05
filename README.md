@@ -20,3 +20,12 @@ pip install "flash-attn==2.5.5" --no-build-isolation
 ```
 
 ## 2. 모델 추출
+```bash
+# path_to_hf = "Embodied-CoT/ecot-openvla-7b-bridge" 
+python extract_model.py
+```
+
+## 3. Evaluation (ROS2-based)
+```bash
+python eval_ros.cot.py 
+```
